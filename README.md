@@ -13,7 +13,7 @@
 5. 重启设备
 6. 完成
 
-重启后首次用密码解锁设备，可在 Xposed 管理器的日志中看到模块输出的一条日志。
+重启后首次用密码解锁设备，可在 lsposed 管理器的日志中看到模块输出的一条日志。
 
 ## 支持的 Android 版本
 不明确，具体情况请自行测试  
@@ -36,4 +36,4 @@
 - [FreeUnlock](https://github.com/TheWhiteDog9487/FreeUnlock) 原作者提供的原始实现参考
 
 ## 开源许可
-WTFPL
+MIT
